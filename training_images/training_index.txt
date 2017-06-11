@@ -1773,7 +1773,6 @@ training_images/1/CourierNew-9-3.png 1
 training_images/1/CourierNew-9-4.png 1
 training_images/1/CourierNew-9-5.png 1
 training_images/1/CourierNew-9-6.png 1
-training_images/1/TimesNewRoman-6-1.png 1
 training_images/1/TimesNewRoman-6-2.png 1
 training_images/1/TimesNewRoman-6-3.png 1
 training_images/1/TimesNewRoman-6-4.png 1
@@ -1793,11 +1792,6 @@ training_images/1/TimesNewRoman-9-2.png 1
 training_images/1/TimesNewRoman-9-3.png 1
 training_images/1/TimesNewRoman-9-4.png 1
 training_images/1/TimesNewRoman-9-5.png 1
-training_images/1/TimesNewRoman-10-1.png 1
-training_images/1/TimesNewRoman-10-2.png 1
-training_images/1/TimesNewRoman-10-3.png 1
-training_images/1/TimesNewRoman-10-4.png 1
-training_images/1/TimesNewRoman-10-5.png 1
 training_images/1/Arial-5-1.png 1
 training_images/1/Arial-5-2.png 1
 training_images/1/Arial-5-3.png 1
